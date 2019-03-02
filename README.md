@@ -1,4 +1,4 @@
-# SetCreator
+# LiveSetCreator
 
 This application is meant to be a usefull tool for live bands, especially cover bands.
 Its' main purpose is to create an interactive set of songs (including lyrics, parameters and useful notes for the live performance) for the next on-stage show-up. So, during a break, the performer can easily pick some songs from the band's library for the next gig and slightly switch between them.
